@@ -78,6 +78,8 @@ only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 19
   color: #c2c2c2;
 }
 .nav1 .social i{
+    padding: 0.6rem;
+  padding: 1px 1px;
   font-size: 10px !important;
   color: #c2c2c2;
 
